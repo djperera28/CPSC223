@@ -3,6 +3,4 @@
 # Section: 07 
 # Assignment: Module 1 Assignment 1
 
-
-message = "Its a me, Mario!"
-print(message)
+print("It's a me, Mario!")
