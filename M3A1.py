@@ -1,10 +1,13 @@
-#! /home/codespace/.python/current/bin/python
-# Name: David Perera
+## Name: David Perera
 # Student ID: 884532367
 # Section: 07
-# Assignment: 
-if __name__ == "__main__":
-    print("this is main")
-else:
-    print("Not main")
-print("Hello, World!")
+# Assignment: Module 3 Assignment 1
+
+start_int = int(input("What is your first number? "))
+end_int = int(input("What is your second number? "))
+
+num_list = list(range(start_int, end_int+1))
+sum_int = 0
+for sum in num_list:
+    sum_int += sum
+print(f"The total value of numbers from {start_int} to {end_int} is {sum_int}")
