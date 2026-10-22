@@ -3,9 +3,6 @@
 # Section: 07
 # Assignment: Module 7 Assignment 1
 
-import calendar
-
-
 class User:
     def __init__(self, first_name, last_name, user_id, last_login, password):
         self.first_name = first_name
