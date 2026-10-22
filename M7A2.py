@@ -1,7 +1,7 @@
 ## Name: David Perera
 # Student ID: 884532367
 # Section: 07
-# Assignment: Module 7 Assignment 1
+# Assignment: Module 7 Assignment 2
 
 class User:
     def __init__(self, first_name, last_name, user_id, last_login, password):
