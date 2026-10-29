@@ -1,3 +1,8 @@
+## Name: David Perera
+# Student ID: 884532367
+# Section: 07
+# Assignment: Module 8 Assignment 1
+
 with open("input.txt", "r") as file_object:
     data_list = file_object.readlines()
 
