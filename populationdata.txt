@@ -1,0 +1,7 @@
+Big Cities:
+los angeles,432432432432
+san diego,131314433
+Small Towns:
+long beach,321321
+irvine,300000
+detroit,500000
